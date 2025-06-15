@@ -2,3 +2,4 @@
 
 export(hashtrack)
 export(load_gpx)
+export(make_point_tagger_function)

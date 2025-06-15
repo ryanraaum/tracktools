@@ -23,6 +23,8 @@ Imports:
     assertthat,
     digest,
     dplyr,
+    janitor,
     lubridate,
+    sf,
     tibble,
     XML
