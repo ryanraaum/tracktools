@@ -2,6 +2,7 @@
 
 export(cerealize)
 export(decerealize)
+export(gpx_track_to_sf)
 export(hashtrack)
 export(load_gpx)
 export(make_point_tagger_function)
